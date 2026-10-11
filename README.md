@@ -11,7 +11,7 @@
   <!--             DYNAMIC TYPING HUD             -->
   <!-- ========================================== -->
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Problem+Solver;Building+AI%2C+Vision+%26+Real-Time+Systems;Translating+Complex+Logic+into+Clean+Code" alt="Dynamic Typing HUD"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&lines=AI+Developer+%7C+Python+%7C+Machine+Learning+%7C+Deep+Learning+%7C+Generative+AI;Building+Intelligent+Computer+Vision+%26+Deep+Learning+Solutions;Architecting+Scalable+Machine+Learning+Pipelines" alt="Dynamic Typing HUD"/>
   </p>
 
   <!-- ========================================== -->
@@ -51,26 +51,38 @@
 ---
 
 <a id="about-me"></a>
-### 👨‍💻 Executive Summary
+### 🤖 Executive Summary
 
-> Driven **Software Engineer** specializing in **Python, Java, and Distributed Systems**. Passionate about architecting high-performance backend systems, real-time concurrent applications, and computer vision pipelines. Dedicated to clean code principles, algorithmic efficiency, and building scalable software that solves practical engineering problems.
+> Dedicated **AI Developer** specializing in **Python, Machine Learning, Deep Learning, and Generative AI**. Passionate about engineering deep neural networks, intelligent computer vision systems, and high-throughput data analytics engines. Focused on translating cutting-edge AI research and predictive models into robust, scalable production solutions.
 
-| 🎯 **Primary Focus** | 📍 **Location** | 💼 **Current Status** | 🚀 **Open To** |
+| 🎯 **Primary Focus** | 📍 **Location** | 💼 **Current Status** | 🚀 **Target Roles** |
 | :--- | :--- | :--- | :--- |
-| Backend Systems, Vision AI & Concurrency | India | Open to Work | Software Engineering Roles & Open Source |
+| Machine Learning, Deep Learning & Vision AI | India | Open to Work | AI Developer • ML Engineer • Data Scientist |
 
 #### 💡 Highlights & Key Capabilities
-- 🧠 **Applied Artificial Intelligence & Vision**: Developing image analytics and intelligent diagnostic pipelines (`AgriVision-AI`).
-- ⚡ **Concurrent & Networked Systems**: Architecting multi-threaded, low-latency socket servers handling concurrent stateful client connections (`Chatting-App`).
-- 📊 **Data Science & Desktop Analytics**: Designing rich desktop GUIs rendering dynamic analytical telemetry and market trends (`GamersMap`).
-- 🏢 **Enterprise Web & Database Infrastructure**: Building secure, normalized, role-based backend portals handling enterprise access hierarchies (`Placement-Portal`, `Employee-Management`).
+- 🧠 **Applied Artificial Intelligence & Vision**: Developing image analytics, object detection, and intelligent diagnostic pipelines (`AgriVision-AI`).
+- 📊 **Machine Learning & Data Analytics**: Building predictive models, data visualizers, and interactive analytics dashboards (`GamersMap`).
+- ⚡ **Concurrent & Networked Systems**: Architecting multi-threaded socket servers handling concurrent stateful client connections (`Chatting-App`).
+- 🏢 **Enterprise Web & Database Infrastructure**: Engineering structured relational database schemas and role-based portals (`Placement-Portal`, `Employee-Management`).
 
 ---
 
 <a id="tech-stack"></a>
-### 🛠 System Architecture & Tech Stack
+### 🛠 Technology Arsenal & AI Stack
 
 <div align="center">
+
+#### 🤖 Artificial Intelligence, Machine Learning & Deep Learning
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>&nbsp;
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>&nbsp;
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>&nbsp;
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>&nbsp;
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>&nbsp;
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>&nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>&nbsp;
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+</p>
 
 #### ⚡ Core Programming Languages
 <p>
