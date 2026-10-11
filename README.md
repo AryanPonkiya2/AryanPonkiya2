@@ -28,10 +28,10 @@
   <!--             QUICK CONNECT LINKS            -->
   <!-- ========================================== -->
   <p align="center">
-    <a href="https://linkedin.com/in/aryan-ponkiya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+    <a href="https://www.linkedin.com/in/aryan-ponkiya-28ab1a369"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
     <a href="mailto:aryanpatel09395@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
     <a href="https://github.com/AryanPonkiya2"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
-    <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+    <a href="https://leetcode.com/u/INFONERaryan"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
   </p>
 
 </div>
@@ -265,8 +265,9 @@
   <p><b>I am continuously seeking ambitious software projects, engineering roles, and open-source innovations. Let's build something phenomenal together!</b></p>
 
   <p align="center">
-    <a href="https://linkedin.com/in/aryan-ponkiya"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/aryan-ponkiya-28ab1a369"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
     <a href="mailto:aryanpatel09395@gmail.com"><img src="https://img.shields.io/badge/Direct%20Mail-Get%20In%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;&nbsp;
+    <a href="https://leetcode.com/u/INFONERaryan"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>&nbsp;&nbsp;
     <a href="https://github.com/AryanPonkiya2?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
   </p>
 
