@@ -4,7 +4,7 @@
   <!--               HEADER BANNER                -->
   <!-- ========================================== -->
   <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,50:183B6B,100:00B4D8&height=220&section=header&text=Aryan%20Ponkiya&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%20%26%20Real-Time%20Systems&descFontSize=17&descAlignY=60" width="100%" alt="Aryan Ponkiya Banner"/>
+    <img src="https://raw.githubusercontent.com/AryanPonkiya2/AryanPonkiya2/main/assets/banner.svg" width="100%" alt="Aryan Ponkiya Banner"/>
   </p>
 
   <!-- ========================================== -->
@@ -29,7 +29,7 @@
   <!-- ========================================== -->
   <p align="center">
     <a href="https://linkedin.com/in/aryan-ponkiya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-    <a href="mailto:aryanponkiya@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
+    <a href="mailto:aryanpatel09395@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
     <a href="https://github.com/AryanPonkiya2"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
     <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
   </p>
@@ -265,12 +265,12 @@ interface SoftwareEngineer {
 
   <p align="center">
     <a href="https://linkedin.com/in/aryan-ponkiya"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
-    <a href="mailto:aryanponkiya@example.com"><img src="https://img.shields.io/badge/Direct%20Mail-Get%20In%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;&nbsp;
+    <a href="mailto:aryanpatel09395@gmail.com"><img src="https://img.shields.io/badge/Direct%20Mail-Get%20In%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;&nbsp;
     <a href="https://github.com/AryanPonkiya2?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
   </p>
 
   <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,50:183B6B,100:00B4D8&height=100&section=footer" width="100%" alt="Aryan Ponkiya Footer"/>
+    <img src="https://raw.githubusercontent.com/AryanPonkiya2/AryanPonkiya2/main/assets/footer.svg" width="100%" alt="Aryan Ponkiya Footer"/>
   </p>
 
   <p align="center">
