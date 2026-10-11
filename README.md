@@ -53,22 +53,11 @@
 <a id="about-me"></a>
 ### 👨‍💻 Executive Summary
 
-```typescript
-interface SoftwareEngineer {
-  name: "Aryan Ponkiya";
-  headline: "Software Engineer & Systems Innovator";
-  location: "India";
-  coreDomains: [
-    "High-Performance Python & Java Engineering",
-    "Real-Time Concurrency & Socket Programming",
-    "Applied AI, Computer Vision & Data Visualization",
-    "Full-Stack Web Architectures & Relational Data Design"
-  ];
-  currentFocus: "Architecting low-latency networks & high-throughput intelligent tools";
-  passions: ["Distributed Logic", "Clean Architecture", "Algorithmic Efficiency"];
-  seeking: "Software Engineering Roles | High-Impact Collaborations | Open Source";
-}
-```
+> Driven **Software Engineer** specializing in **Python, Java, and Distributed Systems**. Passionate about architecting high-performance backend systems, real-time concurrent applications, and computer vision pipelines. Dedicated to clean code principles, algorithmic efficiency, and building scalable software that solves practical engineering problems.
+
+| 🎯 **Primary Focus** | 📍 **Location** | 💼 **Current Status** | 🚀 **Open To** |
+| :--- | :--- | :--- | :--- |
+| Backend Systems, Vision AI & Concurrency | India | Open to Work | Software Engineering Roles & Open Source |
 
 #### 💡 Highlights & Key Capabilities
 - 🧠 **Applied Artificial Intelligence & Vision**: Developing image analytics and intelligent diagnostic pipelines (`AgriVision-AI`).
