@@ -7,12 +7,6 @@
     <img src="https://raw.githubusercontent.com/AryanPonkiya2/AryanPonkiya2/main/assets/banner.svg" width="100%" alt="Aryan Ponkiya Banner"/>
   </p>
 
-  <!-- ========================================== -->
-  <!--             DYNAMIC TYPING HUD             -->
-  <!-- ========================================== -->
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&lines=AI+Developer+%7C+Python+%7C+Machine+Learning+%7C+Deep+Learning+%7C+Generative+AI;Building+Intelligent+Computer+Vision+%26+Deep+Learning+Solutions;Architecting+Scalable+Machine+Learning+Pipelines" alt="Dynamic Typing HUD"/>
-  </p>
 
   <!-- ========================================== -->
   <!--             METRIC BADGES                  -->
