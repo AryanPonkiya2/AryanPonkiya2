@@ -20,7 +20,6 @@
   <!-- ========================================== -->
   <p align="center">
     <a href="https://github.com/AryanPonkiya2?tab=followers"><img src="https://img.shields.io/github/followers/AryanPonkiya2?label=Followers&logo=github&style=for-the-badge&color=0d1117&labelColor=161b22" alt="Followers"/></a>&nbsp;
-    <a href="https://github.com/AryanPonkiya2"><img src="https://komarev.com/ghpvc/?username=AryanPonkiya2&label=Profile%20Views&color=00b4d8&style=for-the-badge" alt="Profile Views"/></a>&nbsp;
     <a href="https://github.com/AryanPonkiya2?tab=repositories"><img src="https://img.shields.io/github/stars/AryanPonkiya2?label=Stars&logo=github&style=for-the-badge&color=e3b341&labelColor=161b22" alt="Stars"/></a>&nbsp;
     <img src="https://img.shields.io/badge/Status-Open%20To%20Work-2ea44f?style=for-the-badge&logo=githubactions&logoColor=white" alt="Status"/>
   </p>
