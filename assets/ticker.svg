@@ -14,15 +14,19 @@
       <stop offset="100%" stop-color="#00F2FE"/>
     </linearGradient>
 
-    <!-- Badge Gradient -->
-    <linearGradient id="badgeGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00F2FE"/>
-      <stop offset="100%" stop-color="#0099FF"/>
+    <!-- Left & Right Edge Fade Gradients -->
+    <linearGradient id="fadeLeft" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#080C14" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#080C14" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="fadeRight" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#080C14" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#080C14" stop-opacity="1"/>
     </linearGradient>
 
-    <!-- Clip Path for the sliding ticker area -->
+    <!-- Clip Path for the full sliding area -->
     <clipPath id="tickerClip">
-      <rect x="135" y="4" width="855" height="38"/>
+      <rect x="8" y="4" width="984" height="38" rx="6"/>
     </clipPath>
   </defs>
 
@@ -45,36 +49,12 @@
       fill: #E2E8F0;
       letter-spacing: 0.5px;
     }
-    .badge-text {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif;
-      font-size: 12px;
-      font-weight: 800;
-      letter-spacing: 1.5px;
-      fill: #080C14;
-    }
-    @keyframes pulseLive {
-      0%, 100% { opacity: 1; }
-      50% { opacity: 0.35; }
-    }
-    .live-dot {
-      animation: pulseLive 1.4s ease-in-out infinite;
-    }
   </style>
 
   <!-- Outer Container -->
   <rect x="1" y="1" width="998" height="44" rx="8" fill="url(#tickerBg)" stroke="url(#borderGrad)" stroke-width="1.2"/>
 
-  <!-- Left "HEADLINE" Badge -->
-  <g transform="translate(8, 7)">
-    <rect width="118" height="30" rx="6" fill="url(#badgeGrad)"/>
-    <circle cx="16" cy="15" r="4" fill="#FFFFFF" class="live-dot"/>
-    <text x="28" y="20" class="badge-text">HEADLINE</text>
-  </g>
-
-  <!-- Dividing line between badge and marquee -->
-  <line x1="132" y1="8" x2="132" y2="38" stroke="#334155" stroke-width="1.5"/>
-
-  <!-- Scrolling Marquee Text -->
+  <!-- Full-Width Scrolling Marquee Text -->
   <g clip-path="url(#tickerClip)">
     <g class="sliding-track">
       <!-- Segment 1 -->
@@ -91,4 +71,8 @@
       </text>
     </g>
   </g>
+
+  <!-- Left & Right Smooth Fade Overlays -->
+  <rect x="2" y="2" width="36" height="42" rx="6" fill="url(#fadeLeft)" pointer-events="none"/>
+  <rect x="962" y="2" width="36" height="42" rx="6" fill="url(#fadeRight)" pointer-events="none"/>
 </svg>
