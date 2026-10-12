@@ -43,8 +43,9 @@
   <a href="#about-me"><b>About Me</b></a> • 
   <a href="#tech-stack"><b>Tech Stack</b></a> • 
   <a href="#flagship-projects"><b>Flagship Projects</b></a> • 
-  <a href="#github-analytics"><b>GitHub Analytics</b></a> • 
-  <a href="#engineering-standards"><b>Engineering Standards</b></a> • 
+  <a href="#achievements"><b>Achievements</b></a> • 
+  <a href="#certifications"><b>Certifications</b></a> • 
+  <a href="#github-analytics"><b>Analytics</b></a> • 
   <a href="#connect"><b>Connect</b></a>
 </p>
 
@@ -219,6 +220,72 @@
           <img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code"/>
         </a>
       </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<a id="achievements"></a>
+### 🏆 Honors & Key Achievements
+
+<table>
+  <tr>
+    <td align="center" width="22%">
+      <img src="https://img.shields.io/badge/🥉_3rd_Rank-00F2FE?style=for-the-badge&labelColor=0D1117" alt="3rd Rank"/>
+    </td>
+    <td>
+      <b>Cyber Security (CTF) Hackathon</b> — Ganpat University (2026)
+      <br/>
+      <sub>Demonstrated offensive and defensive security capabilities, penetration testing, cryptography, and vulnerability exploitation. (Technical)</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="22%">
+      <img src="https://img.shields.io/badge/🥉_3rd_Rank-00B4D8?style=for-the-badge&labelColor=0D1117" alt="3rd Rank"/>
+    </td>
+    <td>
+      <b>TechSketch Technical Competition</b> — Ganpat University (2026)
+      <br/>
+      <sub>Recognized for technical systems architecture drafting, conceptual algorithmic structuring, and innovative engineering. (Technical)</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="22%">
+      <img src="https://img.shields.io/badge/🏆_Winner-FFD700?style=for-the-badge&labelColor=0D1117" alt="Winner"/>
+    </td>
+    <td>
+      <b>Counter Strike: Global Offensive Tournament</b> — Marwadi University (2025)
+      <br/>
+      <sub>Champion in collegiate esports tournament, demonstrating high-pressure strategic execution, rapid decision-making, and team leadership.</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+<a id="certifications"></a>
+### 📜 Professional Certifications
+
+<table>
+  <tr>
+    <td align="center" width="26%">
+      <img src="https://img.shields.io/badge/NSQF_Level--4-Certified-2EA44F?style=for-the-badge&logo=shield&logoColor=white&labelColor=0D1117" alt="NSQF Level 4"/>
+    </td>
+    <td>
+      <b>Junior Software Developer (SSC/Q0508)</b>
+      <br/>
+      <sub>Issued by: <b>NASSCOM IT-ITeS SSC & Skill India</b> • National Skills Qualifications Framework (NSQF) Level-4</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="26%">
+      <img src="https://img.shields.io/badge/FutureSkills-Certified-007ACC?style=for-the-badge&logo=futurelearn&logoColor=white&labelColor=0D1117" alt="FutureSkills"/>
+    </td>
+    <td>
+      <b>Machine Learning & Essentials of Solution Development in IT</b>
+      <br/>
+      <sub>Issued by: <b>FutureSkills Prime (A MeitY & NASSCOM Initiative)</b> • Applied AI/ML & Solution Engineering</sub>
     </td>
   </tr>
 </table>
