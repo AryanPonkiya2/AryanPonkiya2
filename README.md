@@ -7,6 +7,13 @@
     <img src="https://raw.githubusercontent.com/AryanPonkiya2/AryanPonkiya2/main/assets/banner.svg" width="100%" alt="Aryan Ponkiya Banner"/>
   </p>
 
+  <!-- ========================================== -->
+  <!--          NEWS TICKER HEADLINE              -->
+  <!-- ========================================== -->
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/AryanPonkiya2/AryanPonkiya2/main/assets/ticker.svg" width="100%" alt="AI Developer Headline Ticker"/>
+  </p>
+
 
   <!-- ========================================== -->
   <!--             METRIC BADGES                  -->

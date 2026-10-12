@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 46" width="100%" height="46">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="tickerBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#080C14"/>
+      <stop offset="50%" stop-color="#0E172A"/>
+      <stop offset="100%" stop-color="#080C14"/>
+    </linearGradient>
+
+    <!-- Border Glow Gradient -->
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F2FE"/>
+      <stop offset="50%" stop-color="#1E293B"/>
+      <stop offset="100%" stop-color="#00F2FE"/>
+    </linearGradient>
+
+    <!-- Badge Gradient -->
+    <linearGradient id="badgeGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F2FE"/>
+      <stop offset="100%" stop-color="#0099FF"/>
+    </linearGradient>
+
+    <!-- Clip Path for the sliding ticker area -->
+    <clipPath id="tickerClip">
+      <rect x="135" y="4" width="855" height="38"/>
+    </clipPath>
+  </defs>
+
+  <style>
+    @keyframes slideLoop {
+      0% {
+        transform: translateX(0px);
+      }
+      100% {
+        transform: translateX(-750px);
+      }
+    }
+    .sliding-track {
+      animation: slideLoop 12s linear infinite;
+    }
+    .ticker-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      font-size: 15px;
+      font-weight: 600;
+      fill: #E2E8F0;
+      letter-spacing: 0.5px;
+    }
+    .badge-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif;
+      font-size: 12px;
+      font-weight: 800;
+      letter-spacing: 1.5px;
+      fill: #080C14;
+    }
+    @keyframes pulseLive {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.35; }
+    }
+    .live-dot {
+      animation: pulseLive 1.4s ease-in-out infinite;
+    }
+  </style>
+
+  <!-- Outer Container -->
+  <rect x="1" y="1" width="998" height="44" rx="8" fill="url(#tickerBg)" stroke="url(#borderGrad)" stroke-width="1.2"/>
+
+  <!-- Left "HEADLINE" Badge -->
+  <g transform="translate(8, 7)">
+    <rect width="118" height="30" rx="6" fill="url(#badgeGrad)"/>
+    <circle cx="16" cy="15" r="4" fill="#FFFFFF" class="live-dot"/>
+    <text x="28" y="20" class="badge-text">HEADLINE</text>
+  </g>
+
+  <!-- Dividing line between badge and marquee -->
+  <line x1="132" y1="8" x2="132" y2="38" stroke="#334155" stroke-width="1.5"/>
+
+  <!-- Scrolling Marquee Text -->
+  <g clip-path="url(#tickerClip)">
+    <g class="sliding-track">
+      <!-- Segment 1 -->
+      <text x="0" y="28" class="ticker-text" textLength="750" lengthAdjust="spacing">
+        <tspan fill="#00F2FE">✦</tspan> AI Developer <tspan fill="#475569">|</tspan> Python <tspan fill="#475569">|</tspan> Machine Learning <tspan fill="#475569">|</tspan> Deep Learning <tspan fill="#475569">|</tspan> Generative AI &#160;&#160;&#160;
+      </text>
+      <!-- Segment 2 -->
+      <text x="750" y="28" class="ticker-text" textLength="750" lengthAdjust="spacing">
+        <tspan fill="#00F2FE">✦</tspan> AI Developer <tspan fill="#475569">|</tspan> Python <tspan fill="#475569">|</tspan> Machine Learning <tspan fill="#475569">|</tspan> Deep Learning <tspan fill="#475569">|</tspan> Generative AI &#160;&#160;&#160;
+      </text>
+      <!-- Segment 3 -->
+      <text x="1500" y="28" class="ticker-text" textLength="750" lengthAdjust="spacing">
+        <tspan fill="#00F2FE">✦</tspan> AI Developer <tspan fill="#475569">|</tspan> Python <tspan fill="#475569">|</tspan> Machine Learning <tspan fill="#475569">|</tspan> Deep Learning <tspan fill="#475569">|</tspan> Generative AI &#160;&#160;&#160;
+      </text>
+    </g>
+  </g>
+</svg>
