@@ -232,7 +232,7 @@
 <table>
   <tr>
     <td align="center" width="22%">
-      <img src="https://img.shields.io/badge/🥉_3rd_Rank-00F2FE?style=for-the-badge&labelColor=0D1117" alt="3rd Rank"/>
+      <img src="https://img.shields.io/badge/🥉_3rd_Rank-00F2FE?style=for-the-badge&labelColor=1D277F" alt="3rd Rank"/>
     </td>
     <td>
       <b>Cyber Security (CTF) Hackathon</b> — Ganpat University (2026)
